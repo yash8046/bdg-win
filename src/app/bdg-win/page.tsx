@@ -261,7 +261,7 @@ export default function BDGWinPage() {
 
             <div className="mt-7 flex flex-wrap justify-center gap-4">
               <a
-                href="#"
+                href="https://t.me/ManagerBDG_7"
                 className="inline-block bg-sky-500 hover:bg-sky-400 text-white px-6 py-3 rounded-lg font-semibold shadow transition hover:shadow-sky-500/40 relative z-10"
               >
                 Telegram Support
