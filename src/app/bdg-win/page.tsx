@@ -196,8 +196,8 @@ export default function BDGWinPage() {
                 <Image
                   src="/bdg-logo.jpg"
                   alt="BDG Win gaming platform logo"
-                  width={140}
-                  height={140}
+                  width={200}
+                  height={200}
                   priority
                   className="relative rounded-full shadow-lg border border-yellow-400/40"
                 />
