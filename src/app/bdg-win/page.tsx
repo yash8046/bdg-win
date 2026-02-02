@@ -116,7 +116,7 @@ export default function BDGWinPage() {
       "applicationCategory": "GameApplication",
       "description":
         "Official BDG Win App download page. Get BDG Game APK, login guide, bonuses. Play & win real money.",
-      "url": "https://bdgwin.in/",
+      "url": "https://www.bdggamelink.in/bdg-win",
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.7",
