@@ -105,24 +105,29 @@ export default function BDGWinPage() {
         }}
       />
       
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "WebPage",
-            "name": "BDG Win APK Download 2025 | BDG Game App",
-            "description": "Official BDG Win App download page. Get BDG Game APK, login guide, bonuses. Play & win real money.",
-            "url": "https://bdgwin.in",
-            "aggregateRating": {
-              "@type": "AggregateRating",
-              "ratingValue": "4.7",
-              "reviewCount": "4207",
-              "bestRating": "5"
-            }
-          })
-        }}
-      />
+  <script
+  type="application/ld+json"
+  dangerouslySetInnerHTML={{
+    __html: JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "SoftwareApplication",
+      "name": "BDG Win App",
+      "operatingSystem": "Android",
+      "applicationCategory": "GameApplication",
+      "description":
+        "Official BDG Win App download page. Get BDG Game APK, login guide, bonuses. Play & win real money.",
+      "url": "https://bdgwin.in/",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "reviewCount": "4207",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    })
+  }}
+/>
+
 
       <main className="relative min-h-screen bg-black text-white font-sans leading-relaxed overflow-hidden">
         {/* ✅ Fixed Background */}
