@@ -137,7 +137,7 @@ export default function BDGWinPage() {
             quality={90}
           />
           {/* Dark overlay directly on image */}
-          <div className="absolute inset-0 bg-black/70" />
+          <div className="absolute inset-0 bg-black/20" />
           {/* Gold gradient overlay */}
           <div className="absolute inset-0 opacity-30 bg-gradient-to-br from-yellow-400/20 via-transparent to-purple-600/20" />
         </div>
